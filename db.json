@@ -90,5 +90,12 @@
             "is_private": false,
             "image": "https://picsum.photos/200/"
         }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "John",
+            "has_subscribed": false
+        }
     ]
 }
